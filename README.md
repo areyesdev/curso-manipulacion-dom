@@ -10,6 +10,10 @@
 Durante el curso se trabajaron dos workshops que puedes encontrar en este repositorio:
 
 * [Workshop 1: Fetch](https://github.com/areyesdev/curso-manipulacion-dom/tree/main/workshop-1-fetch)
+* [Workshop 2: Lazy Loading](https://github.com/areyesdev/curso-manipulacion-dom/tree/main/workshop-2-lazy)
 
 ### Workshop Fetch
 ![Workshop 1: Fetch](https://user-images.githubusercontent.com/34661567/157107703-3ec7f0c6-ce5c-4264-9195-ac121b56a5d4.png)
+
+### Workshop Lazy Loading
+![lazy-loading](https://user-images.githubusercontent.com/34661567/157144219-c8887ef5-8f92-49fd-a4a1-1f45e4974b02.png)
